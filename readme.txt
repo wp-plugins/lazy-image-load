@@ -1,4 +1,5 @@
 === Lazy Image Load ===
+Contributors: pashabd
 Tags: Image load, large image load, internet data save, quick page load,  jQuery lazy image 
 Requires at least: 3.0.1
 Tested up to: 3.9
